@@ -7,6 +7,10 @@
         <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_create_new_user.xml" value="0.4" />
         <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_compose.xml" value="0.25" />
+        <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_posts.xml" value="0.264" />
+        <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/item_post.xml" value="0.2" />
+        <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.264" />
         <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_main.xml" value="0.264" />
         <entry key="..\:/Users/seani/AndroidStudioProjects/InstagramClone/app/src/main/res/xml/fileprovider.xml" value="0.10989583333333333" />
       </map>
