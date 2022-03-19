@@ -58,6 +58,7 @@ public class PostsAdapter extends RecyclerView.Adapter<PostsAdapter.ViewHolder> 
             ivImage = itemView.findViewById(R.id.ivImage);
         }
 
+
         public void bind(Post post) {
             //bind the post data to view elements
             tvDescription.setText(post.getDescription());
