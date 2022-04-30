@@ -78,6 +78,8 @@ public class PostsFragment extends Fragment {
         swipeContainer.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
+                allPosts.clear();
+                adapter.notifyDataSetChanged();
                 Log.i("Refresh", "fetching new data!");
                 queryPost();
             }
